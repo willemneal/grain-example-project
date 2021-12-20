@@ -1,0 +1,16 @@
+{
+  "name": "grain-example-project",
+  "version": "1.0.0",
+  "description": "Example grain project",
+  "main": "index.js",
+  "author": "Willem Wyndham",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@grain/stdlib": "^0.4.4"
+  },
+  "dependencies": {
+    "@grain/js-runner": "^0.4.0",
+    "commander": "^8.3.0"
+  }
+}
